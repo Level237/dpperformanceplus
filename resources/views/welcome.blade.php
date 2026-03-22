@@ -46,17 +46,17 @@
     <x-header />
 
     <main>
-        <!-- Polaris Style Hero Slider Component -->
+        <!-- Hero Section -->
         <x-hero />
 
-        <!-- Specialties Grid Section -->
-        <x-specialties />
+        <!-- Featured Vehicles Section -->
+        <x-featured-vehicles />
 
-        <!-- Process and Partners Section -->
-        <x-process />
+        <!-- Why Choose Us Section -->
+        <x-why-choose-us />
 
-        <!-- Testimonials Section -->
-        <x-testimonials />
+        <!-- Our Partners Section -->
+        <x-partners />
     </main>
 
     <x-footer />
